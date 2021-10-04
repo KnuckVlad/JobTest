@@ -10,6 +10,5 @@ namespace JobTest.Entitys
         public int DocumentId { get; set; }
         public int Amount { get; set; }
         public string Description { get; set; }
-
     }
 }
